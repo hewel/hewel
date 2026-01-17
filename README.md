@@ -1,16 +1,25 @@
-#### 🖖 Welcome. 
-***
+<div align="center">
 
-<a href="https://github.com/hewel">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hewel&hide_border=true&layout=compact" />
+# 🖖 Welcome
+
+---
+
+### 🧑‍💻 About Me
+
+**🎮 Gamer &nbsp;•&nbsp; 🧑‍💻 Frontend Developer &nbsp;•&nbsp; 🤓 Geek &nbsp;•&nbsp; 🎬 Movie Enthusiast &nbsp;•&nbsp; 👨 Typical Dude**
+
+---
+
+### 🛠️ Tech Stack
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,rust,nodejs,vite,tailwind,git,vscode" />
 </a>
 
-##### I'll show you:
-* 🎮 a gamer
-* 🧑‍💻 a frontdeveloper
-* 🤓 a geek
-* 🎬 a movie enthusiast
-* 👨 a typical dude.
+---
 
+### 📊 GitHub Insights
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hewel&hide_border=true)](https://github.com/hewel)
+<img src="github-metrics.svg" alt="GitHub Metrics" width="100%">
+
+</div>
