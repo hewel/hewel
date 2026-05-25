@@ -29,22 +29,22 @@
       <p><strong>VIT (Vitality)</strong> <br> <code>██████░░░░</code> 60% <em>(Coffee-to-Code conversion rate)</em></p>
       <p><strong>AGI (Agility)</strong> <br> <code>████████░░</code> 80% <em>(Hot Reload speed with Vite)</em></p>
     </td>
-    <td width="34%" align="center" valign="top">
+    <td width="34%" valign="top">
       <h3>🐾 Active Companion</h3>
       <pre align="left">
     /\_/ \
    ( o.o )  <em>"Meow! Welcome, traveler!</em>
     > ^ <   <em>Hewel is currently crafting</em>
-   /  |  \  <em>awesome web spells!</em>
+   /  |  \  <em>awesome web spells!"</em>
   (______/
       </pre>
-      <p align="center">
+      <p>
         <a href="https://github.com/hewel">
           <img src="https://img.shields.io/badge/Status-Online%20and%20Coding-success?style=for-the-badge&logo=github&color=50fa7b&logoColor=282a36" alt="Status Badge"/>
         </a>
       </p>
-      <p align="center">
-        <img src="https://komarev.com/normal-badge.png?key=hewel&label=XP&color=bd93f9&style=flat-square" alt="XP views badge" />
+      <p>
+        <img src="https://komarev.com/normal-badge.png?username=hewel&label=XP%20Views&color=bd93f9&style=flat-square" alt="XP views badge" />
       </p>
     </td>
   </tr>
