@@ -12,7 +12,7 @@
 
 <table align="center" width="100%">
   <tr>
-    <td width="55%" valign="top">
+    <td width="33%" valign="top">
       <h3>⚔️ Player Info</h3>
       <ul>
         <li><strong>Name:</strong> Hewel</li>
@@ -21,14 +21,15 @@
         <li><strong>Level:</strong> 24 <em>(Next level at 5,000 commits)</em></li>
         <li><strong>Guild:</strong> Open Source Adventurers 🌐</li>
       </ul>
-      
+    </td>
+    <td width="33%" valign="top">
       <h3>📊 Character Attributes</h3>
       <p><strong>INT (Intelligence)</strong> <br> <code>████████░░</code> 80% <em>(React Hooks & Logic)</em></p>
       <p><strong>DEX (Dexterity)</strong> <br> <code>█████████░</code> 90% <em>(CSS Layouts & Responsive Grids)</em></p>
       <p><strong>VIT (Vitality)</strong> <br> <code>██████░░░░</code> 60% <em>(Coffee-to-Code conversion rate)</em></p>
       <p><strong>AGI (Agility)</strong> <br> <code>████████░░</code> 80% <em>(Hot Reload speed with Vite)</em></p>
     </td>
-    <td width="45%" align="center" valign="top">
+    <td width="34%" align="center" valign="top">
       <h3>🐾 Active Companion</h3>
       <pre align="left">
     /\_/ \
