@@ -13,8 +13,6 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
 
       - name: Generate stats card
         uses: stats-organization/github-readme-stats-action@v2
@@ -22,7 +20,7 @@ jobs:
           card: stats
           options: username=hewel&show_icons=true&theme=tokyonight&rank_icon=github
           path: profile/stats.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Generate top languages card
         uses: stats-organization/github-readme-stats-action@v2
@@ -30,7 +28,7 @@ jobs:
           card: top-langs
           options: username=hewel&layout=compact&theme=tokyonight
           path: profile/top-langs.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
         run: |
