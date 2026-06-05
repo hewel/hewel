@@ -64,7 +64,7 @@
 
 ### 📜 Active Quests
 
-- [x] **Quest 1: Streamline GitHub Insights** — *Refactor metrics.yml to achieve clean profile zen.* `[REWARD: Clean Profile Badge 🏅]`
+- [x] **Quest 1: Streamline GitHub Insights** — *Transitioned profile to clean github-readme-stats.* `[REWARD: Clean Profile Badge 🏅]`
 - [ ] **Quest 2: Master Rust Spellcasting** — *Leveling up systems programming knowledge.* `[PROGRESS: ████░░░░░░ 40%]`
 - [ ] **Quest 3: Build the Ultimate UI Artifact** — *Developing a new open-source component library.* `[XP +500]`
 
@@ -73,5 +73,6 @@
 ### 📊 Profile Chronicles (GitHub Insights)
 
 <div align="center">
-  <img src="github-metrics.svg" alt="Hewel's GitHub Metrics" width="100%" />
+  <img src="profile/stats.svg" alt="Hewel's GitHub Stats" />
+  <img src="profile/top-langs.svg" alt="Hewel's Top Languages" />
 </div>
