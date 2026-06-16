@@ -74,5 +74,7 @@
 
 <div align="center">
   <img src="profile/stats.svg" alt="Hewel's GitHub Stats" />
+</div>
+<div align="center">
   <img src="profile/top-langs.svg" alt="Hewel's Top Languages" />
 </div>
