@@ -9,8 +9,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=460&lines=Building+modern%2C+responsive+web+apps;Specializing+in+React+%26+TypeScript;Crafting+sleek+interfaces+%26+micro-interactions;Welcome+to+my+digital+workspace!)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://hewel.dev">
-    <img src="https://img.shields.io/badge/Portfolio-hewel.dev-00E5FF?style=flat-square&logo=googlechrome&logoColor=0D1117" alt="Website"/>
+  <a href="https://blog.pigmint.me/">
+    <img src="https://img.shields.io/badge/Blog-blog.pigmint.me-00E5FF?style=flat-square&logo=googlechrome&logoColor=0D1117" alt="Website"/>
   </a>
   <a href="https://github.com/hewel">
     <img src="https://img.shields.io/badge/GitHub-@hewel-7000FF?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
@@ -98,8 +98,8 @@ Coffee_Level: "Over 9000 ☕"
 ### 📫 Connect With Me
 
 <p align="center">
-  <a href="https://hewel.dev">
-    <img src="https://img.shields.io/badge/Website-hewel.dev-00E5FF?style=for-the-badge&logo=firefox&logoColor=0D1117" alt="Website"/>
+  <a href="https://blog.pigmint.me/">
+    <img src="https://img.shields.io/badge/Blog-blog.pigmint.me-00E5FF?style=for-the-badge&logo=firefox&logoColor=0D1117" alt="Website"/>
   </a>
   <a href="https://github.com/hewel">
     <img src="https://img.shields.io/badge/GitHub-hewel-7000FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
